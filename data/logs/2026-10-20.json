@@ -1,0 +1,7292 @@
+[
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T21:34:06.502Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T21:34:10.507Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T21:34:15.808Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T21:34:19.822Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T21:34:23.831Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T21:46:32.824Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T21:46:36.838Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T21:46:40.850Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T21:46:44.855Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T21:46:48.860Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T21:46:52.874Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T21:46:56.877Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T21:47:00.887Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T21:47:04.887Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T21:47:08.895Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T21:47:12.905Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T21:47:16.910Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T21:47:20.925Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T21:47:24.928Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T21:47:28.931Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T21:47:32.942Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T21:47:36.954Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T21:47:40.966Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T21:47:44.968Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T21:47:48.975Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T21:47:52.985Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T21:47:56.991Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T21:48:01.003Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T21:48:05.007Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T21:48:09.008Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T21:48:13.024Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T21:48:17.038Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T21:48:21.049Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T21:48:25.058Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T21:48:29.062Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T21:48:33.065Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T21:48:37.080Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T21:48:41.083Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T21:48:45.089Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T21:48:49.089Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T21:48:53.101Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T21:48:57.106Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T21:49:01.117Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T21:49:05.131Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T21:49:09.144Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T21:49:13.145Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T21:49:17.159Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T21:49:21.173Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T21:49:25.175Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T21:49:29.186Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T21:49:33.188Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T21:49:37.189Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T21:49:41.201Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T21:49:45.215Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T21:49:49.221Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T21:49:53.232Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T21:49:57.240Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T21:50:01.249Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T21:50:05.263Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T21:50:09.273Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T21:50:13.278Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T21:50:17.289Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T21:50:21.299Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T21:50:25.300Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T21:50:29.313Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T21:50:33.319Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T21:50:37.331Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T21:50:41.333Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T21:50:45.348Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T21:50:49.347Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T21:50:53.348Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T21:50:57.357Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T21:51:01.365Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T21:51:05.374Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T21:51:09.377Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T21:51:13.378Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T21:51:17.383Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T21:51:21.392Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T21:51:25.396Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T21:51:29.406Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T21:51:33.410Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T21:51:37.417Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T21:51:41.430Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T21:51:45.443Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T21:51:49.452Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T21:51:53.452Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T21:51:57.455Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T21:52:01.469Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T21:52:05.481Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T21:52:09.484Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T21:52:13.495Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T21:52:17.509Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T21:52:21.513Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T21:52:25.525Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T21:52:29.531Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T21:52:33.540Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T21:52:37.552Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T21:52:41.552Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T21:52:45.560Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T21:52:49.572Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T21:52:53.573Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T21:52:57.578Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T21:53:01.587Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T21:53:05.596Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T21:53:09.604Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T21:53:13.617Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T21:53:17.629Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T21:53:21.640Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T21:53:25.653Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T21:53:29.666Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T21:53:33.676Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T21:53:37.677Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T21:53:41.692Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T21:53:45.703Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T21:53:49.718Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T21:53:53.724Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T21:53:57.730Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T21:54:01.745Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T21:54:05.749Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T21:54:09.757Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T21:54:13.761Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T21:54:17.763Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T21:54:21.768Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T21:54:25.783Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T21:54:29.784Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T21:54:33.793Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T21:54:37.796Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T21:54:41.806Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T21:54:45.816Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T21:54:49.830Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T21:54:53.835Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T21:54:57.840Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T21:55:01.851Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T21:55:05.859Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T21:55:09.874Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T21:55:13.881Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T21:55:17.887Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T21:55:21.896Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T21:55:25.907Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T21:55:29.912Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T21:55:33.925Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T21:55:37.937Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T21:55:41.946Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T21:55:45.955Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T21:55:49.961Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T21:55:53.976Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T21:55:57.983Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T21:56:01.996Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T21:56:05.999Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T21:56:10.000Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T21:56:14.001Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T21:56:18.010Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T21:56:22.020Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T21:56:26.030Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T21:56:30.040Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T21:56:34.043Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T21:56:38.053Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T21:56:42.056Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T21:56:46.059Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T21:56:50.070Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T21:56:54.080Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T21:56:58.093Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T21:57:02.096Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T21:57:06.099Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T21:57:10.111Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T21:57:14.123Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T21:57:18.130Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T21:57:22.141Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T21:57:26.148Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T21:57:30.150Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T21:57:34.164Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T21:57:38.168Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T21:57:42.183Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T21:57:46.189Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T21:57:50.190Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T21:57:54.193Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T21:57:58.208Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T21:58:02.223Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T21:58:06.225Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T21:58:10.230Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T21:58:14.234Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T21:58:18.234Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T21:58:22.244Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T21:58:26.247Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T21:58:30.249Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T21:58:34.250Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T21:58:38.259Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T21:58:42.260Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T21:58:46.273Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T21:58:50.286Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T21:58:54.291Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T21:58:58.303Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T21:59:02.307Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T21:59:06.309Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T21:59:10.319Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T21:59:14.320Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T21:59:18.325Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T21:59:22.335Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T21:59:26.346Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T21:59:30.348Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T21:59:34.352Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T21:59:38.360Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T21:59:42.363Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T21:59:46.368Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T21:59:50.382Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T21:59:54.391Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T21:59:58.391Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:00:02.392Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:00:06.406Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:00:10.413Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:00:14.415Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:00:18.422Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:00:22.424Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:00:26.432Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:00:30.444Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:00:34.448Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:00:38.461Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:00:42.472Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:00:46.480Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:00:50.487Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:00:54.487Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:00:58.500Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:01:02.509Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:01:06.514Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:01:10.526Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:01:14.535Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:01:18.541Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:01:22.544Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:01:26.556Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:01:30.560Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:01:34.561Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:01:38.574Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:01:42.580Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:01:46.585Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:01:50.599Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:01:54.601Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:01:58.613Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:02:02.614Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:02:06.627Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:02:10.630Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:02:14.636Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:02:18.637Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:02:22.640Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:02:26.641Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:02:30.650Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:02:34.664Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:02:38.667Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:02:42.674Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:02:46.678Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:02:50.692Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:02:54.693Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:02:58.697Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:03:02.699Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:03:06.708Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:03:10.714Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:03:14.724Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:03:18.731Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:03:22.734Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:03:26.742Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:03:30.752Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:03:34.754Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:03:38.759Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:03:42.774Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:03:46.788Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:03:50.797Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:03:54.811Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:03:58.813Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:04:02.819Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:04:06.827Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:04:10.833Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:04:14.833Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:04:18.839Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:04:22.839Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:04:26.847Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:04:30.856Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:04:34.865Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:04:38.874Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:04:42.875Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:04:46.884Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:04:50.898Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:04:54.899Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:04:58.912Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:05:02.920Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:05:06.923Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:05:10.937Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:05:14.945Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:05:18.958Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:05:22.971Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:05:26.983Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:05:30.987Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:05:34.999Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:05:39.010Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:05:43.023Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:05:47.028Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:05:51.033Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:05:55.036Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:05:59.052Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:06:03.055Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:06:07.060Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:06:11.066Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:06:15.067Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:06:19.082Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:06:23.097Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:06:27.101Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:06:31.115Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:06:35.127Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:06:39.133Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:06:43.136Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:06:47.136Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:06:51.151Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:06:55.150Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:06:59.163Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:07:03.174Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:07:07.190Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:07:11.192Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:07:15.201Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:07:19.202Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:07:23.210Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:07:27.215Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:07:31.223Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:07:35.226Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:07:39.233Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:07:43.247Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:07:47.254Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:07:51.259Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:07:55.271Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:07:59.283Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:08:03.283Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:08:07.284Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:08:11.299Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:08:15.313Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:08:19.314Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:08:23.322Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:08:27.326Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:08:31.335Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:08:35.339Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:08:39.347Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:08:43.348Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:08:47.363Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:08:51.371Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:08:55.376Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:08:59.386Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:09:03.388Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:09:07.401Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:09:11.412Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:09:15.424Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:09:19.431Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:09:23.435Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:09:27.438Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:09:31.450Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:09:35.461Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:09:39.465Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:09:43.466Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:09:47.473Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:09:51.485Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:09:55.498Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:09:59.507Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:10:03.519Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:10:07.531Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:10:11.533Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:10:15.546Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:10:19.558Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:10:23.560Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:10:27.565Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:10:31.579Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:10:35.588Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:10:39.601Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:10:43.604Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:10:47.607Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:10:51.615Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:10:55.617Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:10:59.630Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:11:03.642Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:11:07.654Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:11:11.654Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:11:15.661Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:11:19.673Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:11:23.677Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:11:27.692Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:11:31.704Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:11:35.709Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:11:39.722Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:11:43.724Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:11:47.730Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:11:51.743Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:11:55.754Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:11:59.757Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:12:03.759Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:12:07.763Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:12:11.764Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:12:15.765Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:12:19.778Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:12:23.793Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:12:27.805Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:12:31.812Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:12:35.822Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:12:39.834Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:12:43.844Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:12:47.856Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:12:51.863Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:12:55.878Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:12:59.886Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:13:03.897Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:13:07.906Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:13:11.911Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:13:15.913Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:13:19.912Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:13:23.917Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:13:27.931Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:13:31.937Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:13:35.951Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:13:39.953Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:13:43.957Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:13:47.960Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:13:51.967Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:13:55.967Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:13:59.967Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:14:03.967Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:14:07.977Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:14:11.979Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:14:15.984Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:14:19.997Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:14:24.012Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:14:28.020Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:14:32.019Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:14:36.035Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:14:40.044Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:14:44.056Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:14:48.065Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:14:52.072Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:14:56.086Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:15:00.101Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:15:04.111Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:15:08.114Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:15:12.128Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:15:16.133Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:15:20.136Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:15:24.138Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:15:28.149Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:15:32.162Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:15:36.175Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:15:40.177Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:15:44.179Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:15:48.179Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:15:52.183Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:15:56.184Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:16:00.183Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:16:04.195Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:16:08.205Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:16:12.209Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:16:16.211Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:16:20.223Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:16:24.224Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:16:28.229Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:16:32.244Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:16:36.245Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:16:40.249Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:16:44.249Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:16:48.250Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:16:52.261Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:16:56.271Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:17:00.285Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:17:04.292Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:17:08.301Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:17:12.315Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:17:16.322Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:17:20.329Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:17:24.343Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:17:28.356Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:17:32.364Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:17:36.373Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:17:40.377Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:17:44.389Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:17:48.403Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:17:52.406Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:17:56.408Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:18:00.416Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:18:04.420Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:18:08.432Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:18:12.440Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:18:16.448Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:18:20.457Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:18:24.469Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:18:28.480Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:18:32.482Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:18:36.482Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:18:40.490Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:18:44.498Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:18:48.498Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:18:52.502Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:18:56.510Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:19:00.511Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:19:04.515Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:19:08.524Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:19:12.531Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:19:16.546Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:19:20.549Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:19:24.563Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:19:28.570Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:19:32.580Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:19:36.594Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:19:40.596Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:19:44.609Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:19:48.620Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:19:52.622Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:19:56.623Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:20:00.636Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:20:04.650Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:20:08.665Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:20:12.671Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:20:16.681Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:20:20.696Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:20:24.698Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:20:28.713Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:20:32.716Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:20:36.726Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:20:40.742Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:20:44.745Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:20:48.750Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:20:52.760Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:20:56.768Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:21:00.774Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:21:04.788Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:21:08.788Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:21:12.788Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:21:16.800Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:21:20.805Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:21:24.813Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:21:28.818Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:21:32.828Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:21:36.831Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:21:40.843Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:21:44.843Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:21:48.858Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:21:52.861Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:21:56.875Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:22:00.886Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:22:04.892Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:22:08.907Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:22:12.911Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:22:16.915Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:22:20.919Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:22:24.926Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:22:28.942Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:22:32.949Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:22:36.950Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:22:40.956Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:22:44.963Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:22:48.978Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:22:52.989Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:22:56.993Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:23:00.997Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:23:05.008Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:23:09.022Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:23:13.023Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:23:17.031Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:23:21.046Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:23:25.051Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:23:29.064Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:23:33.078Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:23:37.080Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:23:41.081Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:23:45.089Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:23:49.094Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:23:53.102Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:23:57.112Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:24:01.124Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:24:05.127Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:24:09.141Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:24:13.153Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:24:17.165Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:24:21.167Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:24:25.169Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:24:29.181Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:24:33.188Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:24:37.191Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:24:41.195Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:24:45.200Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:24:49.209Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:24:53.210Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:24:57.224Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:25:01.225Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:25:05.237Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:25:09.242Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:25:13.253Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:25:17.256Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:25:21.269Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:25:25.279Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:25:29.285Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:25:33.298Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:25:37.300Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:25:41.302Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:25:45.313Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:25:49.321Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:25:53.325Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:25:57.338Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:26:01.341Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:26:05.354Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:26:09.365Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:26:13.367Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:26:17.381Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:26:21.380Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:26:25.384Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:26:29.385Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:26:33.395Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:26:37.407Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:26:41.419Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:26:45.422Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:26:49.432Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:26:53.436Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:26:57.450Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:27:01.455Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:27:05.461Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:27:09.472Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:27:13.473Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:27:17.486Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:27:21.489Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:27:25.500Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:27:29.515Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:27:33.523Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:27:37.527Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:27:41.540Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:27:45.542Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:27:49.553Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:27:53.564Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:27:57.569Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:28:01.575Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:28:05.587Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:28:09.595Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:28:13.595Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:28:17.605Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:28:21.612Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:28:25.620Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:28:29.623Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:28:33.638Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:28:37.640Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:28:41.654Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:28:45.660Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:28:49.668Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:28:53.681Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:28:57.695Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:29:01.696Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:29:05.701Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:29:09.701Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:29:13.707Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:29:17.717Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:29:21.730Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:29:25.732Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:29:29.743Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:29:33.751Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:29:37.756Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:29:41.768Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:29:45.783Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:29:49.786Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:29:53.796Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:29:57.809Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:30:01.821Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:30:05.831Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:30:09.831Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:30:13.832Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:30:17.834Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:30:21.845Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:30:25.859Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:30:29.865Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:30:33.874Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:30:37.877Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:30:41.881Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:30:45.893Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:30:49.908Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:30:53.923Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:30:57.925Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:31:01.925Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:31:05.940Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:31:09.945Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:31:13.950Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:31:17.964Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:31:21.973Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:31:25.979Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:31:29.991Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:31:34.001Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:31:38.009Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:31:42.011Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:31:46.020Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:31:50.020Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:31:54.021Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:31:58.032Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:32:02.034Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:32:06.037Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:32:10.039Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:32:14.049Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:32:18.053Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:32:22.060Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:32:26.062Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:32:30.068Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:32:34.074Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:32:38.079Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:32:42.092Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:32:46.098Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:32:50.100Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:32:54.102Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:32:58.106Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:33:02.112Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:33:06.112Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:33:10.112Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:33:14.126Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:33:18.132Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:33:22.139Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:33:26.145Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:33:30.159Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:33:34.167Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:33:38.179Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:33:42.189Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:33:46.201Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:33:50.210Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:33:54.214Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:33:58.220Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:34:02.229Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:34:06.239Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:34:10.241Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:34:14.255Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:34:18.269Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:34:22.278Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:34:26.280Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:34:30.290Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:34:34.294Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:34:38.296Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:34:42.305Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:34:46.318Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:34:50.328Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:34:54.332Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:34:58.344Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:35:02.349Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:35:06.361Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:35:10.370Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:35:14.375Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:35:18.380Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:35:22.393Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:35:26.400Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:35:30.402Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:35:34.403Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:35:38.414Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:35:42.430Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:35:46.435Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:35:50.444Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:35:54.459Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:35:58.472Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:36:02.477Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:36:06.489Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:36:10.495Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:36:14.501Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:36:18.506Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:36:22.507Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:36:26.522Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:36:30.525Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:36:34.531Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:36:38.546Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:36:42.547Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:36:46.552Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:36:50.555Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:36:54.566Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:36:58.576Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:37:02.581Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:37:06.595Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:37:10.599Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:37:14.605Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:37:18.620Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:37:22.622Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:37:26.624Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:37:30.634Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:37:34.641Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:37:38.649Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:37:42.663Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:37:46.674Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:37:50.684Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:37:54.688Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:37:58.696Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:38:02.707Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:38:06.718Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:38:10.718Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:38:14.729Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:38:18.730Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:38:22.739Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:38:26.744Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:38:30.748Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:38:34.748Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:38:38.757Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:38:42.772Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:38:46.774Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:38:50.782Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:38:54.795Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:38:58.809Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:39:02.813Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:39:06.816Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:39:10.823Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:39:14.831Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:39:18.846Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:39:22.845Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:39:26.860Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:39:30.863Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:39:34.877Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:39:38.886Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:39:42.893Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:39:46.906Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:39:50.907Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:39:54.917Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:39:58.921Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:40:02.935Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:40:06.948Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:40:10.960Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:40:14.972Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:40:18.976Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:40:22.978Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:40:26.988Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:40:30.991Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:40:35.000Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:40:39.008Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:40:43.018Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:40:47.030Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:40:51.039Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:40:55.046Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:40:59.053Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:41:03.065Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:41:07.080Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:41:11.085Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:41:15.094Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:41:19.100Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:41:23.106Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:41:27.120Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:41:31.124Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:41:35.135Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:41:39.140Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:41:43.141Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:41:47.143Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:41:51.154Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:41:55.155Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:41:59.161Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:42:03.162Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:42:07.167Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:42:11.166Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:42:15.181Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:42:19.184Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:42:23.185Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:42:27.199Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:42:31.203Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:42:35.218Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:42:39.230Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:42:43.242Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:42:47.255Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:42:51.265Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:42:55.271Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:42:59.280Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:43:03.282Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:43:07.288Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:43:11.300Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:43:15.300Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:43:19.301Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:43:23.316Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:43:27.331Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:43:31.346Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:43:35.354Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:43:39.364Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:43:43.378Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:43:47.383Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:43:51.395Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:43:55.406Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:43:59.407Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:44:03.421Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:44:07.433Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:44:11.444Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:44:15.452Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:44:19.457Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:44:23.458Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:44:27.468Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:44:31.478Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:44:35.479Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:44:39.488Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:44:43.496Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:44:47.507Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:44:51.510Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:44:55.517Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:44:59.520Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:45:03.528Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:45:07.543Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:45:11.548Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:45:15.549Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:45:19.550Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:45:23.551Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:45:27.562Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:45:31.565Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:45:35.569Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:45:39.581Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:45:43.595Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:45:47.597Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:45:51.602Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:45:55.614Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:45:59.622Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:46:03.624Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:46:07.639Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:46:11.650Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:46:15.660Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:46:19.666Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:46:23.666Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:46:27.674Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:46:31.689Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:46:35.690Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:46:39.691Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:46:43.704Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:46:47.706Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:46:51.715Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:46:55.727Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:46:59.741Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:47:03.752Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:47:07.764Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:47:11.778Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:47:15.792Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:47:19.806Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:47:23.808Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:47:27.823Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:47:31.832Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:47:35.838Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:47:39.852Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:47:43.868Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:47:47.872Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:47:51.877Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:47:55.879Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:47:59.889Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:48:03.896Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:48:07.906Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:48:11.919Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:48:15.928Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:48:19.932Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:48:23.944Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:48:27.956Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:48:31.958Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:48:35.967Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:48:39.971Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:48:43.980Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:48:47.986Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:48:51.986Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:48:55.988Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:48:59.988Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:49:03.997Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:49:08.006Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:49:12.018Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:49:16.022Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:49:20.032Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:49:24.041Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:49:28.046Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:49:32.059Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:49:36.072Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:49:40.075Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:49:44.083Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:49:48.090Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:49:52.091Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:49:56.093Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:50:00.107Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:50:04.119Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:50:08.133Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:50:12.133Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:50:16.147Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:50:20.156Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:50:24.167Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:50:28.175Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:50:32.175Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:50:36.187Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:50:40.201Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:50:44.209Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:50:48.218Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:50:52.219Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:50:56.231Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:51:00.245Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:51:04.258Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:51:08.259Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:51:12.272Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:51:16.274Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:51:20.277Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:51:24.283Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:51:28.282Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:51:32.297Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:51:36.308Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:51:40.315Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:51:44.317Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:51:48.322Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:51:52.336Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:51:56.343Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:52:00.348Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:52:04.356Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:52:08.367Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:52:12.379Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:52:16.383Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:52:20.397Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:52:24.404Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:52:28.415Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:52:32.415Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:52:36.416Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:52:40.426Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:52:44.426Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:52:48.428Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:52:52.431Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:52:56.445Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:53:00.447Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:53:04.456Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:53:08.466Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:53:12.478Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:53:16.487Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:53:20.491Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:53:24.500Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:53:28.515Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:53:32.524Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:53:36.532Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:53:40.543Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:53:44.550Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:53:48.549Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:53:52.550Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:53:56.565Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:54:00.575Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:54:04.576Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:54:08.585Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:54:12.589Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:54:16.602Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:54:20.612Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:54:24.619Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:54:28.627Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:54:32.635Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:54:36.642Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:54:40.649Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:54:44.657Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:54:48.659Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:54:52.666Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:54:56.679Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:55:00.690Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:55:04.697Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:55:08.712Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:55:12.718Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:55:16.730Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:55:20.743Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:55:24.756Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:55:28.770Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:55:32.783Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:55:36.798Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:55:40.806Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:55:44.810Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:55:48.815Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:55:52.822Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:55:56.824Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:56:00.836Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:56:04.849Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:56:08.863Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:56:12.868Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:56:16.868Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:56:20.880Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:56:24.888Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:56:28.903Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:56:32.907Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:56:36.908Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:56:40.912Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:56:44.921Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:56:48.923Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:56:52.933Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:56:56.934Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:57:00.947Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:57:04.955Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:57:08.957Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:57:12.966Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:57:16.972Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:57:20.983Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:57:24.994Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:57:29.005Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:57:33.007Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:57:37.021Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:57:41.030Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:57:45.043Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:57:49.050Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:57:53.061Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:57:57.072Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:58:01.077Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:58:05.083Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:58:09.085Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:58:13.087Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:58:17.095Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:58:21.108Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:58:25.124Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:58:29.134Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:58:33.144Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:58:37.149Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:58:41.158Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:58:45.165Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:58:49.169Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:58:53.171Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:58:57.175Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:59:01.185Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:59:05.195Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:59:09.209Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T22:59:13.221Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:59:17.231Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:59:21.243Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:59:25.245Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:59:29.246Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:59:33.256Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:59:37.257Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:59:41.260Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:59:45.273Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T22:59:49.277Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:59:53.277Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T22:59:57.290Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T23:00:01.295Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T23:00:05.308Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T23:00:09.316Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T23:00:13.319Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T23:00:17.320Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T23:00:21.324Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T23:00:25.325Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T23:00:29.340Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T23:00:33.349Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T23:00:37.359Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T23:00:41.372Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T23:00:45.382Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T23:00:49.396Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T23:00:53.399Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T23:00:57.408Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T23:01:01.409Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T23:01:05.417Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T23:01:09.429Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T23:01:13.431Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T23:01:17.446Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T23:01:21.447Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T23:01:25.452Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T23:01:29.465Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T23:01:33.478Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T23:01:37.494Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T23:01:41.500Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T23:01:45.513Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T23:01:49.520Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T23:01:53.520Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T23:01:57.522Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T23:02:01.522Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T23:02:05.534Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T23:02:09.544Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T23:02:13.554Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T23:02:17.569Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T23:02:21.577Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T23:02:25.592Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T23:02:29.601Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T23:02:33.609Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T23:02:37.616Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T23:02:41.626Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T23:02:45.627Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T23:02:49.642Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T23:02:53.655Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T23:02:57.657Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T23:03:01.657Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T23:03:05.667Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T23:03:09.667Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T23:03:13.667Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T23:03:17.674Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T23:03:21.687Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T23:03:25.701Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T23:03:29.710Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T23:05:54.134Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T23:05:58.149Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T23:06:02.158Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T23:06:06.159Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T23:06:10.171Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T23:06:14.175Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T23:06:18.179Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T23:06:22.182Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T23:06:26.192Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T23:06:30.203Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T23:06:34.205Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T23:06:38.205Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T23:06:42.206Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T23:06:46.219Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T23:06:50.228Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T23:06:54.232Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T23:06:58.234Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T23:07:02.245Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T23:07:06.260Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T23:07:10.264Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T23:07:14.276Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T23:07:18.284Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T23:07:22.299Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T23:07:26.305Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T23:07:30.307Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T23:07:34.307Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T23:07:38.320Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T23:07:42.335Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T23:07:46.342Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T23:07:50.343Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T23:07:54.354Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T23:07:58.356Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T23:08:02.364Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T23:08:06.371Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T23:08:10.385Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T23:08:14.389Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T23:08:18.397Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T23:08:22.398Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T23:08:26.410Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T23:08:30.418Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T23:08:34.432Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T23:08:38.431Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T23:08:42.440Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T23:08:46.454Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T23:08:50.468Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T23:08:54.477Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T23:08:58.491Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T23:09:02.491Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T23:09:06.491Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T23:09:10.502Z"
+  },
+  {
+    "kartNumber": 10,
+    "driverName": "Hans Richter",
+    "transponderId": "TR-5001",
+    "timestamp": "2026-10-20T23:09:14.510Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T23:09:18.522Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T23:09:22.522Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T23:09:26.522Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T23:09:30.530Z"
+  },
+  {
+    "kartNumber": 5,
+    "driverName": "Testfahrer Alex",
+    "transponderId": "TR-5002",
+    "timestamp": "2026-10-20T23:09:34.542Z"
+  },
+  {
+    "kartNumber": 12,
+    "driverName": "Gastfahrer",
+    "transponderId": "TR-5003",
+    "timestamp": "2026-10-20T23:09:38.551Z"
+  }
+]
